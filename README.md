@@ -159,8 +159,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: (https://linkedin.com/in/thisas-jayasooriya-b70398337)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Securedbytes
+- LinkedIn: https://linkedin.com/in/thisas-jayasooriya-b70398337
 - Email: jayasooriyathisas9@gmail.com
 ## 🙏 Acknowledgments
 
