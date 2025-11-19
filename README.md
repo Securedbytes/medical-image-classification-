@@ -164,7 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: jayasooriyathisas9@gmail.com
 ## 🙏 Acknowledgments
 
-- Dataset: [Source/Citation]
+- Dataset: Please email me if needed with the datasets
 - Tools: TensorFlow, scikit-learn, OpenCV teams
 
 ---
